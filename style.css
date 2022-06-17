@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: hsl(0, 0%, 75%)
+
+}
+main{
+    width: 375px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+h3{
+    color: ;
+}    
+}
+.first-content{
+    background-color:orange ;
+    padding: 2em;
+}
